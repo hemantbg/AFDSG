@@ -76,8 +76,4 @@ The following files support performance evaluation and visualization.
 - **Details**: Measures inference latency (e.g., 242.00 ms for NN vs. 164.00 ms for TFLite on IoT1) to assess deployment efficiency.
 - **Key Output**: Time comparison table or graph, highlighting the 1.5x-3.6x speedup from quantization.
 
-
-
-For questions or collaborations, contact [Your Name/Email].
-
 ---
